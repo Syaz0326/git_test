@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "git\n";
+    cout << "‚­‚Ÿ‚—‚¹‚„‚’‚†‚”‚‡‚™‚Ó‚¶‚±‚Œ‚";
     return 0;
 }
